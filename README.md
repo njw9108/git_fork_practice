@@ -1,1 +1,3 @@
-# git_fork_practice
+# 1번 미션
+
+david2에서 작업해요.
